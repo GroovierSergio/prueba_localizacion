@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_width">650dp</dimen>
+    <dimen name="image_height">250dp</dimen>
+    <dimen name="layout_height">495dp</dimen>
+    <dimen name="layout_width">650dp</dimen>
+
+</resources>
